@@ -1,4 +1,4 @@
-name: "AI PR Reviewer"
+name: "AI Assisted PR Reviewer"
 description: "Runs an LLM-based review on pull requests using project.md, diffs, and scan logs"
 author: "Sarvari Harshitha Konda"
 runs:
